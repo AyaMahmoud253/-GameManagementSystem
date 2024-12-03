@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\sevices\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\sevices\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\views\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\views\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\viewmodels\\editgameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\viewmodels\\editgameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\sevices\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\sevices\\igamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\gamedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\setting\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\setting\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\migrations\\20241130122028_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\migrations\\20241130122028_added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\models\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\migrations\\20241125130619_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\migrations\\20241125130619_initialdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|c:\\users\\hp\\source\\repos\\gamezonemvc\\gamezonemvc\\migrations\\20241130125135_addeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4219A7-6E79-4D76-9EAB-BE9A6029FFE3}|GameZoneMVC\\GameZoneMVC.csproj|solutionrelative:gamezonemvc\\migrations\\20241130125135_addeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Sevices\\GamesService.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Sevices\\GamesService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Sevices\\GamesService.cs",
+              "RelativeToolTip": "GameZoneMVC\\Sevices\\GamesService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwGkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:39:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGamesService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Sevices\\IGamesService.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Sevices\\IGamesService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Sevices\\IGamesService.cs",
+              "RelativeToolTip": "GameZoneMVC\\Sevices\\IGamesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:39:37.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Views\\Games\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Edit.cshtml",
+              "RelativeToolTip": "GameZoneMVC\\Views\\Games\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T15:53:52.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Program.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Program.cs",
+              "RelativeToolTip": "GameZoneMVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:23:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Views\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Index.cshtml",
+              "RelativeToolTip": "GameZoneMVC\\Views\\Games\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T12:01:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "GameZoneMVC\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwH4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:44:04.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateGameFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\ViewModels\\CreateGameFormViewModel.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\ViewModels\\CreateGameFormViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\ViewModels\\CreateGameFormViewModel.cs",
+              "RelativeToolTip": "GameZoneMVC\\ViewModels\\CreateGameFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:36:09.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditGameFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\ViewModels\\EditGameFormViewModel.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\ViewModels\\EditGameFormViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\ViewModels\\EditGameFormViewModel.cs",
+              "RelativeToolTip": "GameZoneMVC\\ViewModels\\EditGameFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:49:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameZoneMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:50:07.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameZoneMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T12:57:15.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Views\\Games\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Games\\Create.cshtml",
+              "RelativeToolTip": "GameZoneMVC\\Views\\Games\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T11:47:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Game.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:35:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameDevice.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\GameDevice.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\GameDevice.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\GameDevice.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\GameDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:35:41.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:51:15.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Setting\\Setting.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Setting\\Setting.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Setting\\Setting.cs",
+              "RelativeToolTip": "GameZoneMVC\\Setting\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:20:38.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "GameZoneMVC\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:20:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "GameZoneMVC\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:17:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241130125135_addeddata.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241130125135_addeddata.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Migrations\\20241130125135_addeddata.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241130125135_addeddata.cs",
+              "RelativeToolTip": "GameZoneMVC\\Migrations\\20241130125135_addeddata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:51:35.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241130122028_added.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241130122028_added.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Migrations\\20241130122028_added.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241130122028_added.cs",
+              "RelativeToolTip": "GameZoneMVC\\Migrations\\20241130122028_added.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:20:33.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\Device.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Device.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:35:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Category.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:35:40.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Base.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Models\\Base.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Models\\Base.cs",
+              "RelativeToolTip": "GameZoneMVC\\Models\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:44:06.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameZoneMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T12:04:34.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241125130619_initialDB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241125130619_initialDB.cs",
+              "RelativeDocumentMoniker": "GameZoneMVC\\Migrations\\20241125130619_initialDB.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\Migrations\\20241125130619_initialDB.cs",
+              "RelativeToolTip": "GameZoneMVC\\Migrations\\20241125130619_initialDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:06:20.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "GameZoneMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\appsettings.json",
+              "RelativeToolTip": "GameZoneMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T12:21:29.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GameZoneMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\GameZoneMVC\\GameZoneMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GameZoneMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T12:09:56.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
